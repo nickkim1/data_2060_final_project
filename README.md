@@ -5,3 +5,5 @@ This is our group's final project on implementing one-vs-all and the all-pairs a
 1. Open the notebook, setting the kernel to the data2060 environment. 
 2. Run the environment checks to make sure your environment dependencies are as expected.
 3. Run the cells in the notebook.
+
+asdf
